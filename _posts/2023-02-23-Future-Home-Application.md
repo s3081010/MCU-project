@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Innovative Project Proposal
+title: 藍芽小車車
 author: [陳厚任]
 category: [Lecture]
 tags: [jekyll, ai]
