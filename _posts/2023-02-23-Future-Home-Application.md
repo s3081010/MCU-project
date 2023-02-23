@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 藍芽小車車
+title: Future-Home-Application
 author: [陳厚任]
 category: [Lecture]
 tags: [jekyll, ai]
